@@ -1,0 +1,13 @@
+/* Style pour le conteneur du calendrier */
+.calendar-container {
+    margin-top: 85px;
+    margin-left: 20%;
+    margin-bottom: 20px;
+  }
+  
+  /* Style pour l'iframe du calendrier */
+  .calendar-container iframe {
+    width: 700px; /* Largeur fixe du calendrier */
+    height: 500px; /* Hauteur fixe du calendrier */
+  }
+  

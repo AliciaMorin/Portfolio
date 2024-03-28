@@ -1,0 +1,27 @@
+/* Style du carousel */
+.carousel {
+  margin-top: 20px; /* Marge supérieure pour un espacement */
+}
+
+/* Style des images du carousel */
+.carousel-item img {
+  max-width: 20%; /* Largeur des images */
+  margin: 0 auto; /* Centrer les images horizontalement */
+  padding-bottom:100px;
+}
+
+/* Style des légendes du carousel */
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5); /* Couleur de fond semi-transparente */
+  padding: 20px; /* Espacement interne des légendes */
+}
+
+/* Style des titres des légendes */
+.carousel-caption h3 {
+  color: white; /* Couleur du texte des titres */
+}
+
+/* Style des descriptions des légendes */
+.carousel-caption p {
+  color: white; /* Couleur du texte des descriptions */
+}
